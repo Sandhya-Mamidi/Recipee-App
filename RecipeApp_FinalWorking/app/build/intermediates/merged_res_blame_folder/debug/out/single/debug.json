@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.recipeapp-merged_res-21:/layout_activity_add_recipe.xml.flat",
+        "source": "com.example.recipeapp-main-23:/layout/activity_add_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "com.example.recipeapp-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-merged_res-21:/layout_activity_recipe_list.xml.flat",
+        "source": "com.example.recipeapp-main-23:/layout/activity_recipe_list.xml"
+    }
+]

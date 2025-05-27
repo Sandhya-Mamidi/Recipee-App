@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id btnAddRecipe
+id btnSave
+id btnViewRecipes
+id inputCategory
+id inputIngredients
+id inputInstructions
+id inputName
+id recipeListView
+layout activity_add_recipe
+layout activity_main
+layout activity_recipe_list
+string app_name
